@@ -2,7 +2,7 @@
   "id": "backit@unofficial",
   "title": "Backit Unofficial Addon",
   "name": "backit-unofficial-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Unofficial browser extension for Backit.me cashback service",
   "main": "index.js",
   "author": "MooSE",
