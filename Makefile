@@ -1,3 +1,5 @@
+all: xpi
+
 run:
 	jpm --addon-dir src run -b /usr/bin/palemoon
 
